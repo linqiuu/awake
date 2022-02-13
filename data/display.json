@@ -1,0 +1,8 @@
+{
+  "reminder": {
+    "left": "eg：\n1:做总结",
+    "middle": "eg：\n1:思考问题的本质",
+    "right": "eg：\n1:喝水\n2：站起来望远"
+  },
+  "input_template": "总结1：\n总结2：\n总结3："
+}
